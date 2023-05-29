@@ -1,0 +1,4 @@
+ö
+;WebApplicationApiTest.Controllers.WeatherForecastController'Microsoft.AspNetCore.Mvc.ControllerBaseobject¹
+|WeatherForecastController(Microsoft.Extensions.Logging.ILogger<WebApplicationApiTest.Controllers.WeatherForecastController>)¸WebApplicationApiTest.Controllers.WeatherForecastController.WeatherForecastController(Microsoft.Extensions.Logging.ILogger<WebApplicationApiTest.Controllers.WeatherForecastController>)J
+Get()AWebApplicationApiTest.Controllers.WeatherForecastController.Get()
