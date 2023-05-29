@@ -1,1 +1,0 @@
-C:\Work\Repos\test\SantiagoDuque\testing-sonar\WebApplicationApiTest\.sonarqube\out\0

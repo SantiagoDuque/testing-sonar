@@ -1,7 +1,0 @@
-organization=testing-sduque-aitana
-projectKey=testing-sduque-aitana_testing-sduque
-serverUrl=https://sonarcloud.io
-serverVersion=8.0.0.41494
-dashboardUrl=https://sonarcloud.io/dashboard?id=testing-sduque-aitana_testing-sduque
-ceTaskId=AYhoEdIq6JBDvAwuETa4
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYhoEdIq6JBDvAwuETa4
